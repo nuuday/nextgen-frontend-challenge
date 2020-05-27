@@ -1,0 +1,208 @@
+{
+  "id": 319,
+  "name": "8",
+  "slug": "8",
+  "brandName": "Nokia",
+  "brandSlug": "nokia",
+  "headline": "Begrænset antal. Kan kun købes hos Nuuday",
+  "documentTitle": "Nokia 8 - Køb den nemt og hurtigt med abonnement",
+  "campaignLabel": "Kan kun købes online",
+  "colors": [
+    {
+      "color": "Blå",
+      "colorHex": "#2d37fa"
+    },
+    {
+      "color": "Stål",
+      "colorHex": "#878787"
+    }
+  ],
+  "descriptionMeta": "Nokia 8 med 64 GB. Klik og køb Nokia 8 til en god pris hos Nuuday. Test og anmeldelser taler klart: Nokia 8’s kameraer giver de bedste billeder og videoer.",
+  "descriptionHtml": "D. 16. august 2017 var release-datoen for den nye Nokia 8. På internettet har man i månedsvis kunnet læse om alle forventningerne til den kommende Nokia 8, som er blevet omtalt som producentens nye flagskib. \r\n<br><br>\r\nNokias nye flagskib blev præsenteret for en lille gruppe tech-journalister, og på internettet kan du allerede læse om den nye Nokia 8 i deres anmeldelser. Og i anmeldelserne står det klart: denne mobil er fyldt med lækre specifikationer. \r\n<br><br>\r\n<h2>Nokia 8: Lækre specifikationer i flot design </h2>\r\nI denne smartphone får du alle de bedste specifikationer du forventer af en telefon samlet i et lækkert aluminiumsdesign. Med telefonen får du et godt kamera og en kraftig processor i et lækkert design. Alt dette til en overkommelig pris. \r\n<br><br>\r\nDenne mobil kommer med en række lækre specifikationer - et 13 megapixels kamera, en snapdragon 835 processor, 4GB RAM, 3090 mAh-batteri, dual-SIM, en 5,3” skærm, Android 7.1.1 og meget mere. \r\n<br><br>\r\nMobilen kommer med <strong>64 GB</strong> indbygget lagerplads, og med et micoSD-kort kan du opgradere med op til hele <strong>256 GB</strong>. Du kan få Nokia 8 i farverne <strong>blå</strong> og <strong>stål</strong>. Længere nede på siden kan du læse meget mere om alle de lækre specifikationer du får med den nye Nokia 8. \r\n<br><br>\r\n<h2>En telefon med et lækkert dual-kamera</h2>\r\nMed denne telefon får du glæden af et lækkert dual-kamera på 13 + 13 megapixel. Kameraet er udviklet i samarbejde med ZEISS, så du får altså et lækkert kamera med intelligent teknologisk design. \r\n<br><br>\r\nDu får selvfølgelig også et kamera på forsiden af telefonen, så du kan tage flotte selfies. Faktisk kommer telefonens kamera med Dual Sight, så du kan bruge kameraet på forsiden og bagsiden på samme tid. \r\n<br><br>\r\n<h2>Nokia 8: En Android-telefon med en kraftig processor i et lækkert design </h2>\r\nI telefonen får du en Qualcomm MSM8998 Snapdragon 835 processor. Nokia 8 kommer i et lækkert design af aluminium. \r\n<br><br>\r\nMobilen kommer med et 5,3” touch-display, som er beskyttet af Corning Gorilla Glass 5. Du får en et lækkert skærmbillede på telefonen med en opløsning på 1440 x 2560 megapixels. \r\n<br><br>\r\nTelefonen vejer 160 gram og 151.5 x 73,3mm. Sidst men ikke mindst er telefonen IP54-certificeret, der gør at denne mobil er stænktæt og kan tåle støv. \r\n<br><br>\r\n<h2>Telefonen du kan tilpasse til din hverdag </h2>\r\nTelefonen kommer også med Android 7.1.1 (Nougat) - et styresystem til dig, der foretrækker at kunne tilpasse din telefon til din hverdag med forskellige widgets og apps. \r\n<br><br>\r\nTelefonen kommer med dual-SIM, så du kan have 2 SIM-kort i din telefon på samme tid. På denne måde kan du holde arbejdstelefon og privattelefon adskilt samtidigt med, at du let kan skifte mellem arbejds- og privattelefon. \r\n<br><br>\r\n\r\nSidst men ikke mindst kommer Nokia 8 også med en fingeraftrykslæser, så din telefon er sikret samtidig med, at du let kan tilgå mobilen når du er på farten. \r\n<br><br>\r\n<h2>Nokia 8: En telefon til en skarp pris</h2>\r\nLyder Nokia 8 som din nye telefon? Dette nye flagskib fra Nokia er ikke bare en lækker ny telefon i et flot design, men også en telefon til en fornuftig pris. Med denne nye telefon får du altså en perlerække af lækre specifikationer i flot design. Alt dette til en skarp og attraktiv pris.",
+  "specifications": [
+    {
+      "label": "5,3” 2K-polariseret display",
+      "description": ""
+    },
+    {
+      "label": "Qualcomm Snapdragon 835 processor",
+      "description": ""
+    },
+    {
+      "label": "4 GB ram",
+      "description": ""
+    },
+    {
+      "label": "13 MP-kamera foran og bagpå med ZEISS-optik",
+      "description": ""
+    },
+    {
+      "label": "Fingeraftrykslæser",
+      "description": ""
+    },
+    {
+      "label": "Dual-SIM",
+      "description": ""
+    },
+    {
+      "label": "Android 7.1.1",
+      "description": ""
+    }
+  ],
+  "deviceType": "mobile",
+  "labels": [
+    "4G",
+    "Wi-Fi Opkald",
+    "Mobilrabat"
+  ],
+  "offeringService": "Fri + 20 GB",
+  "offeringServicePrice": 19900,
+  "leastPriceRepayments": 129300,
+  "leastPriceUpfront": 179200,
+  "leastPrice": 49900,
+  "savings": 250000,
+  "serviceDiscount": 0,
+  "signupCost": 9900,
+  "featuredVariantId": 730,
+  "onSale": false,
+  "variants": [
+    {
+      "id": 729,
+      "size": "64 GB",
+      "color": "Blå",
+      "colorHex": "#2d37fa",
+      "image": "Nokia_8_Bl.png",
+      "imageAlt": "Nokia 8 64 GB blå",
+      "gallery": [
+        {
+          "image": "Nokia_8_Bl-1.png",
+          "imageAlt": null
+        }
+      ],
+      "inStock": true,
+      "subscriptions": [
+        {
+          "devicePrice": 49900,
+          "contractPeriod": 0,
+          "priceWithoutSubsidy": 299900,
+          "serviceDiscount": 250000,
+          "label": "Fri + 20 GB",
+          "type": "flatrate",
+          "monthlyPrice": 19900,
+          "signupCost": 9900,
+          "minPriceFirstMonth": 29800,
+          "data": "20 GB",
+          "roaming": "15 GB"
+        },
+        {
+          "devicePrice": 9900,
+          "contractPeriod": 0,
+          "priceWithoutSubsidy": 299900,
+          "serviceDiscount": 290000,
+          "label": "Fri + 50 GB",
+          "type": "flatrate",
+          "monthlyPrice": 29900,
+          "signupCost": 9900,
+          "minPriceFirstMonth": 39800,
+          "data": "50 GB",
+          "roaming": "20 GB"
+        },
+        {
+          "devicePrice": 9900,
+          "contractPeriod": 0,
+          "priceWithoutSubsidy": 299900,
+          "serviceDiscount": 290000,
+          "label": "Fri + Fri Data",
+          "type": "flatrate",
+          "monthlyPrice": 39900,
+          "signupCost": 9900,
+          "minPriceFirstMonth": 49800,
+          "data": "Unlimited",
+          "roaming": "25 GB"
+        },
+        {
+          "devicePrice": 289900,
+          "contractPeriod": 0,
+          "priceWithoutSubsidy": 299900,
+          "serviceDiscount": 10000,
+          "label": "Fri + 10 GB",
+          "type": "flatrate",
+          "monthlyPrice": 16900,
+          "signupCost": 0,
+          "minPriceFirstMonth": 16900,
+          "data": "10 GB",
+          "roaming": "15 GB"
+        }
+      ]
+    },
+    {
+      "id": 730,
+      "size": "64 GB",
+      "color": "Stål",
+      "colorHex": "#878787",
+      "image": "Nokia_8_Stl.png",
+      "imageAlt": "Nokia 8 64 GB stål",
+      "gallery": [
+        {
+          "image": "Nokia_8_Stl-1.png",
+          "imageAlt": null
+        }
+      ],
+      "inStock": true,
+      "subscriptions": [
+        {
+          "devicePrice": 49900,
+          "contractPeriod": 0,
+          "priceWithoutSubsidy": 299900,
+          "serviceDiscount": 250000,
+          "label": "Fri + 20 GB",
+          "type": "flatrate",
+          "monthlyPrice": 19900,
+          "signupCost": 9900,
+          "minPriceFirstMonth": 29800,
+          "data": "20 GB",
+          "roaming": "15 GB"
+        },
+        {
+          "devicePrice": 9900,
+          "contractPeriod": 0,
+          "priceWithoutSubsidy": 299900,
+          "serviceDiscount": 290000,
+          "label": "Fri + 50 GB",
+          "type": "flatrate",
+          "monthlyPrice": 29900,
+          "signupCost": 9900,
+          "minPriceFirstMonth": 39800,
+          "data": "50 GB",
+          "roaming": "20 GB"
+        },
+        {
+          "devicePrice": 9900,
+          "contractPeriod": 0,
+          "priceWithoutSubsidy": 299900,
+          "serviceDiscount": 290000,
+          "label": "Fri + Fri Data",
+          "type": "flatrate",
+          "monthlyPrice": 39900,
+          "signupCost": 9900,
+          "minPriceFirstMonth": 49800,
+          "data": "Unlimited",
+          "roaming": "25 GB"
+        },
+        {
+          "devicePrice": 289900,
+          "contractPeriod": 0,
+          "priceWithoutSubsidy": 299900,
+          "serviceDiscount": 10000,
+          "label": "Fri + 10 GB",
+          "type": "flatrate",
+          "monthlyPrice": 16900,
+          "signupCost": 0,
+          "minPriceFirstMonth": 16900,
+          "data": "10 GB",
+          "roaming": "15 GB"
+        }
+      ]
+    }
+  ]
+}

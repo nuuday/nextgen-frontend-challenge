@@ -1,0 +1,37 @@
+@import "../assets/styles/globals.scss";
+
+.spinner {
+  $diameter: 60;
+  $thickness: 8;
+
+  width: $diameter + px;
+  height: $diameter + px;
+
+  circle {
+    cx: $diameter / 2;
+    cy: $diameter / 2;
+    r: ($diameter / 2) - ($thickness / 2);
+    fill: transparent;
+    stroke: #000;
+    stroke-width: $thickness;
+    stroke-linecap: round;
+    stroke-dasharray: (3.14 * $diameter);
+    transform-origin: (0.5px * $diameter) (0.5px * $diameter) 0;
+    animation: spinner 4s linear infinite;
+  }
+
+  @keyframes spinner {
+    0% {
+      transform: rotate(0deg);
+      stroke-dashoffset: (0.66 * $diameter);
+    }
+    50% {
+      transform: rotate(720deg);
+      stroke-dashoffset: (3.14 * $diameter);
+    }
+    100% {
+      transform: rotate(1080deg);
+      stroke-dashoffset: (0.66 * $diameter);
+    }
+  }
+}

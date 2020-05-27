@@ -1,0 +1,1539 @@
+[
+  {
+    "id": 365,
+    "name": "P30 Pro",
+    "slug": "p30-pro",
+    "image": "Huawei_P30Pro_Sort.png",
+    "imageAlt": "Huawei P30 Pro 128 GB Sort",
+    "brandName": "Huawei",
+    "brandSlug": "huawei",
+    "campaignLabel": "Inkl. Freebuds & Charger",
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      },
+      {
+        "color": "Twilight",
+        "colorHex": "#421dca"
+      },
+      {
+        "color": "Krystalblå",
+        "colorHex": "#b0e6f9"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 189300,
+    "leastPriceUpfront": 489200,
+    "leastPrice": 299900,
+    "savings": 330000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 292,
+    "name": "iPhone 7",
+    "slug": "iphone-7",
+    "image": "Apple_iPhone7_Sort.png",
+    "imageAlt": "Bestil iPhone 7 billigt hos Nuuday i dag",
+    "brandName": "Apple",
+    "brandSlug": "apple",
+    "campaignLabel": "Valentines tilbud!",
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      },
+      {
+        "color": "Sølv",
+        "colorHex": "#ababab"
+      }
+    ],
+    "labels": [
+      "4G",
+      "Mobilrabat",
+      "Tilbud",
+      "Wi-Fi Opkald"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 329200,
+    "leastPrice": 199900,
+    "savings": 130000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 392,
+    "name": "Galaxy S10 Lite",
+    "slug": "galaxy-s10-lite",
+    "image": "Samsung_GalaxyS10Lite_Sort.png",
+    "imageAlt": "Samsung Galaxy S10 Lite Sort 128 GB",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      },
+      {
+        "color": "Hvid",
+        "colorHex": "#ffffff"
+      },
+      {
+        "color": "Blå",
+        "colorHex": "#2445ff"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 429400,
+    "leastPriceUpfront": 429400,
+    "leastPrice": 10000,
+    "savings": 279800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 393,
+    "name": "Galaxy S20",
+    "slug": "galaxy-s20",
+    "image": "Samsung_GalaxyS20_Gr.png",
+    "imageAlt": "Samsung Galaxy S20 128 GB Grå",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": "Forsalget er startet!",
+    "colors": [
+      {
+        "color": "Grå",
+        "colorHex": "#66676a"
+      },
+      {
+        "color": "Blå",
+        "colorHex": "#c2e1f8"
+      },
+      {
+        "color": "Pink",
+        "colorHex": "#eec3cc"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Forsalg"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 837400,
+    "leastPriceUpfront": 837400,
+    "leastPrice": 27000,
+    "savings": 131800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 394,
+    "name": "Galaxy S20+",
+    "slug": "galaxy-s20plus",
+    "image": "Samsung_GalaxyS20_Gr.png",
+    "imageAlt": "Samsung Galaxy S20+ Grå 128 GB",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": "Forsalget er startet!",
+    "colors": [
+      {
+        "color": "Grå",
+        "colorHex": "#66676a"
+      },
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Forsalg"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 909400,
+    "leastPriceUpfront": 909400,
+    "leastPrice": 30000,
+    "savings": 129800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 395,
+    "name": "Galaxy S20 Ultra",
+    "slug": "galaxy-s20-ultra",
+    "image": "Samsung_GalaxyS20Ultra_Gr.png",
+    "imageAlt": "Samsung Galaxy S20 Ultra Grå 128 GB",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": "Forsalget er startet!",
+    "colors": [
+      {
+        "color": "Grå",
+        "colorHex": "#66676a"
+      },
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Forsalg"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 1029400,
+    "leastPriceUpfront": 1029400,
+    "leastPrice": 35000,
+    "savings": 209800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 396,
+    "name": "Galaxy Z Flip",
+    "slug": "galaxy-z-flip",
+    "image": "Samsung_GalaxyZFlip_Lilla.png",
+    "imageAlt": "Samsung Galaxy Z Flip 256 GB Lilla",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Lilla",
+        "colorHex": "#d4a6ee"
+      },
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Forsalg"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 1221400,
+    "leastPriceUpfront": 1221400,
+    "leastPrice": 43000,
+    "savings": 137900,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 379,
+    "name": "iPhone 11",
+    "slug": "iphone-11",
+    "image": "Apple_iPhone11_Sort.png",
+    "imageAlt": "Køb den nye iPhone 11 billigt med fri fragt",
+    "brandName": "Apple",
+    "brandSlug": "apple",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      },
+      {
+        "color": "Grøn",
+        "colorHex": "#bbe3d1"
+      },
+      {
+        "color": "Gul",
+        "colorHex": "#ffe98d"
+      },
+      {
+        "color": "Rød",
+        "colorHex": "#c91c38"
+      },
+      {
+        "color": "Hvid",
+        "colorHex": "#ffffff"
+      },
+      {
+        "color": "Lilla",
+        "colorHex": "#ddd8e6"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Forsalg"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 645400,
+    "leastPriceUpfront": 645400,
+    "leastPrice": 19000,
+    "savings": 173800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 382,
+    "name": "Watch 5",
+    "slug": "watch-5",
+    "image": "Apple_Watch5_SpaceGreyAluminiumBlackSportBand.png",
+    "imageAlt": "Apple Watch 5 Space Grey Aluminium Case Black Sport band 40mm",
+    "brandName": "Apple",
+    "brandSlug": "apple",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Space Grey Aluminium - Black Sport Band",
+        "colorHex": "#525252"
+      },
+      {
+        "color": "Gold Aluminium - Pink Sand Sport Band",
+        "colorHex": "#dfc0b5"
+      },
+      {
+        "color": "Silver Aluminium - White Sport Band",
+        "colorHex": "#c7c7c7"
+      }
+    ],
+    "labels": [],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 501400,
+    "leastPriceUpfront": 501400,
+    "leastPrice": 13000,
+    "savings": 120000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "watch"
+  },
+  {
+    "id": 366,
+    "name": "P Smart 2019",
+    "slug": "p-smart-2019",
+    "image": "Huawei_PSmart2019_Sort.png",
+    "imageAlt": "Køb den billige Huawei P Smart 2019 hos Nuuday",
+    "brandName": "Huawei",
+    "brandSlug": "huawei",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 159200,
+    "leastPrice": 29900,
+    "savings": 160000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 356,
+    "name": "iPhone XR",
+    "slug": "iphone-xr",
+    "image": "Apple_iPhoneXR_Sort.png",
+    "imageAlt": "Køb den billige iPhone XR hos Nuuday",
+    "brandName": "Apple",
+    "brandSlug": "apple",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      },
+      {
+        "color": "Hvid",
+        "colorHex": "#ffffff"
+      },
+      {
+        "color": "Gul",
+        "colorHex": "#ffff00"
+      },
+      {
+        "color": "Rød",
+        "colorHex": "#ff0000"
+      },
+      {
+        "color": "Koral",
+        "colorHex": "#f57e4f"
+      },
+      {
+        "color": "Blå",
+        "colorHex": "#00b7ff"
+      }
+    ],
+    "labels": [
+      "4G",
+      "Wi-Fi Opkald",
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 597400,
+    "leastPriceUpfront": 597400,
+    "leastPrice": 17000,
+    "savings": 141800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 352,
+    "name": "iPhone XS",
+    "slug": "iphone-xs",
+    "image": "Apple_iPhoneXS_SpaceGray.png",
+    "imageAlt": "Køb iPhone XS til en lav pris hos Nuuday",
+    "brandName": "Apple",
+    "brandSlug": "apple",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Space Gray",
+        "colorHex": "#1f1f1f"
+      },
+      {
+        "color": "Guld",
+        "colorHex": "#fcc100"
+      },
+      {
+        "color": "Sølv",
+        "colorHex": "#cccccc"
+      }
+    ],
+    "labels": [
+      "4G",
+      "Wi-Fi Opkald",
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 573400,
+    "leastPriceUpfront": 573400,
+    "leastPrice": 16000,
+    "savings": 415800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 364,
+    "name": "P30",
+    "slug": "p30",
+    "image": "Huawei_P30_Krystalbl.png",
+    "imageAlt": "Køb Huawei P30 i dag hos Nuuday",
+    "brandName": "Huawei",
+    "brandSlug": "huawei",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Krystalblå",
+        "colorHex": "#b0e6f9"
+      },
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      },
+      {
+        "color": "Twilight",
+        "colorHex": "#421dca"
+      },
+      {
+        "color": "Amber Sunrise",
+        "colorHex": "#ff6540"
+      }
+    ],
+    "labels": [
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 189300,
+    "leastPriceUpfront": 389200,
+    "leastPrice": 199900,
+    "savings": 280000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 371,
+    "name": "Galaxy A20e",
+    "slug": "galaxy-a20e",
+    "image": "Samsung_GalaxyA20e_Sort.png",
+    "imageAlt": "Køb den billige Samsung Galaxy A20e hos Nuuday",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 159200,
+    "leastPrice": 29900,
+    "savings": 120000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 368,
+    "name": "Galaxy A40",
+    "slug": "galaxy-a40",
+    "image": "Samsung_GalaxyA40_Sort.png",
+    "imageAlt": "Køb Samsung Galaxy A40 i dag til en lav pris hos Nuuday",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      },
+      {
+        "color": "Hvid",
+        "colorHex": "#ffffff"
+      },
+      {
+        "color": "Koral",
+        "colorHex": "#f69a7f"
+      },
+      {
+        "color": "Blå",
+        "colorHex": "#1433ff"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 279200,
+    "leastPrice": 149900,
+    "savings": 50000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 377,
+    "name": "P Smart Z",
+    "slug": "p-smart-z",
+    "image": "Huawei_PSmartZ_Sort.png",
+    "imageAlt": "Køb Huawei P Smart Z billigt med fri fragt her",
+    "brandName": "Huawei",
+    "brandSlug": "huawei",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 179200,
+    "leastPrice": 49900,
+    "savings": 150000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 384,
+    "name": "7T Pro",
+    "slug": "7t-pro",
+    "image": "OnePlus_7TPro_HazeBlue.png",
+    "imageAlt": "Køb OnePlus 7T Pro med pop-up-kamera hos Nuuday",
+    "brandName": "OnePlus",
+    "brandSlug": "oneplus",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Haze Blue",
+        "colorHex": "#59b4ce"
+      },
+      {
+        "color": "McLaren Edition",
+        "colorHex": "#000000"
+      }
+    ],
+    "labels": [],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 645400,
+    "leastPriceUpfront": 645400,
+    "leastPrice": 19000,
+    "savings": 113800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 378,
+    "name": "Xperia 5",
+    "slug": "xperia-5",
+    "image": "Sony_Xperia5_Sort.png",
+    "imageAlt": "Køb Sony Xperia 5 billigt hos Nuuday",
+    "brandName": "Sony",
+    "brandSlug": "sony",
+    "campaignLabel": "Inkl. trådløse hovedtelefoner",
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      },
+      {
+        "color": "Blå",
+        "colorHex": "#0000ff"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 549400,
+    "leastPriceUpfront": 549400,
+    "leastPrice": 15000,
+    "savings": 239800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 367,
+    "name": "P30 Lite",
+    "slug": "p30-lite",
+    "image": "Huawei_P30Lite_Sort.png",
+    "imageAlt": "Køb Huawei P30 Lite med fri fragt hos Nuuday",
+    "brandName": "Huawei",
+    "brandSlug": "huawei",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      },
+      {
+        "color": "Hvid",
+        "colorHex": "#ffffff"
+      },
+      {
+        "color": "Blå",
+        "colorHex": "#01d3d1"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 417400,
+    "leastPriceUpfront": 417400,
+    "leastPrice": 12000,
+    "savings": 11800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 390,
+    "name": "Galaxy A71",
+    "slug": "galaxy-a71",
+    "image": "Samsung_GalaxyA71_Sort.png",
+    "imageAlt": "Samsung Galaxy A71 Sort 128 GB",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      },
+      {
+        "color": "Sølv",
+        "colorHex": "#dbdbdb"
+      },
+      {
+        "color": "Blå",
+        "colorHex": "#12e1e8"
+      }
+    ],
+    "labels": [],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 417400,
+    "leastPriceUpfront": 417400,
+    "leastPrice": 12000,
+    "savings": 81800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 376,
+    "name": "Galaxy Note 10+",
+    "slug": "galaxy-note-10plus",
+    "image": "Samsung_GalaxyNote10_Sort.png",
+    "imageAlt": "Bestil Samsung Galaxy Note 10+ hos Nuuday i dag",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": "Inkl. værdikupon til AKG høretelefoner",
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      },
+      {
+        "color": "Glow",
+        "colorHex": "#ffffff"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 933400,
+    "leastPriceUpfront": 933400,
+    "leastPrice": 31000,
+    "savings": 105800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 359,
+    "name": "Galaxy S10",
+    "slug": "galaxy-s10",
+    "image": "Samsung_GalaxyS10_Hvid.png",
+    "imageAlt": "Køb Samsung Galaxy S10 billigt hos Nuuday",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": "Inkl. værdikupon til AKG høretelefoner",
+    "colors": [
+      {
+        "color": "Hvid",
+        "colorHex": "#ffffff"
+      },
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      }
+    ],
+    "labels": [
+      "4G",
+      "Nyhed",
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 741400,
+    "leastPriceUpfront": 741400,
+    "leastPrice": 23000,
+    "savings": 167800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 361,
+    "name": "Galaxy S10+",
+    "slug": "galaxy-s10plus",
+    "image": "Samsung_GalaxyS10_Sort.png",
+    "imageAlt": "Køb Samsung Galaxy S10+ hos Nuuday i dag",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": "Inkl. værdikupon til AKG høretelefoner",
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      },
+      {
+        "color": "Hvid",
+        "colorHex": "#ffffff"
+      }
+    ],
+    "labels": [
+      "4G",
+      "Nyhed",
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 789400,
+    "leastPriceUpfront": 789400,
+    "leastPrice": 25000,
+    "savings": 199800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 389,
+    "name": "Galaxy A51",
+    "slug": "galaxy-a51",
+    "image": "Samsung_GalaxyA51_Sort.png",
+    "imageAlt": "Samsung Galaxy A51 Sort 128 GB",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      },
+      {
+        "color": "Hvid",
+        "colorHex": "#ffffff"
+      },
+      {
+        "color": "Blå",
+        "colorHex": "#12e1e8"
+      }
+    ],
+    "labels": [
+      "4G",
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 369400,
+    "leastPriceUpfront": 369400,
+    "leastPrice": 240100,
+    "savings": 59800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 360,
+    "name": "Galaxy S10e",
+    "slug": "galaxy-s10e",
+    "image": "Samsung_GalaxyS10e_Sort.png",
+    "imageAlt": "Samsung Galaxy S10e Sort 128 GB",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      },
+      {
+        "color": "Hvid",
+        "colorHex": "#ffffff"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 621400,
+    "leastPriceUpfront": 621400,
+    "leastPrice": 18000,
+    "savings": 167800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 386,
+    "name": "Nova 5T",
+    "slug": "nova-5t",
+    "image": "Huawei_Nova5T_Sort.png",
+    "imageAlt": "Køb Huawei Nova 5T til en lav pris hos Nuuday",
+    "brandName": "Huawei",
+    "brandSlug": "huawei",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      },
+      {
+        "color": "Lilla",
+        "colorHex": "#96019e"
+      },
+      {
+        "color": "Blå",
+        "colorHex": "#2819ff"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 381400,
+    "leastPriceUpfront": 381400,
+    "leastPrice": 8000,
+    "savings": 177800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 383,
+    "name": "7T",
+    "slug": "7t",
+    "image": "OnePlus_7T_FrostedSilver.png",
+    "imageAlt": "Køb OnePlus 7T til en lav pris hos Nuuday",
+    "brandName": "OnePlus",
+    "brandSlug": "oneplus",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Frosted Silver",
+        "colorHex": "#b0afb1"
+      }
+    ],
+    "labels": [],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 549400,
+    "leastPriceUpfront": 549400,
+    "leastPrice": 15000,
+    "savings": 109800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 387,
+    "name": "4.2",
+    "slug": "42",
+    "image": "Nokia_42_Sort.png",
+    "imageAlt": "Nokia 4.2 Sort 32 GB",
+    "brandName": "Nokia",
+    "brandSlug": "nokia",
+    "campaignLabel": "Kan kun købes online",
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 189300,
+    "leastPriceUpfront": 329200,
+    "leastPrice": 139900,
+    "savings": 30000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 388,
+    "name": "7.2",
+    "slug": "72",
+    "image": "Nokia_72_Gr.png",
+    "imageAlt": "Køb Nokia 7.2 til en lav pris med fri fragt",
+    "brandName": "Nokia",
+    "brandSlug": "nokia",
+    "campaignLabel": "Kan kun købes online",
+    "colors": [
+      {
+        "color": "Grå",
+        "colorHex": "#595959"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 429400,
+    "leastPriceUpfront": 429400,
+    "leastPrice": 240100,
+    "savings": 49800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 373,
+    "name": "Galaxy A80",
+    "slug": "galaxy-a80",
+    "image": "Samsung_GalaxyA80_Sort.png",
+    "imageAlt": "Bestil Samsung Galaxy A80 med fri fragt hos Nuuday",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": "Inkl. Samsung Speaker Bottle",
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 189300,
+    "leastPriceUpfront": 389200,
+    "leastPrice": 199900,
+    "savings": 290000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 375,
+    "name": "Galaxy Note 10",
+    "slug": "galaxy-note-10",
+    "image": "Samsung_GalaxyNote10_Sort.png",
+    "imageAlt": "Bestil Samsung Galaxy Note 10 billigt hos Nuuday",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": "Inkl. værdikupon til AKG høretelefoner",
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      },
+      {
+        "color": "Glow",
+        "colorHex": "#ffffff"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Tilbud"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 669400,
+    "leastPriceUpfront": 669400,
+    "leastPrice": 20000,
+    "savings": 269800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 391,
+    "name": "Galaxy Note 10 Lite",
+    "slug": "galaxy-note-10-lite",
+    "image": "Samsung_GalaxyNote10Lite_Sort.png",
+    "imageAlt": "Samsung Galaxy Note 10 Lite Sort 128 GB",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      },
+      {
+        "color": "Sølv",
+        "colorHex": "#d4d4d4"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 561400,
+    "leastPriceUpfront": 561400,
+    "leastPrice": 18000,
+    "savings": 47800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 380,
+    "name": "iPhone 11 Pro",
+    "slug": "iphone-11-pro",
+    "image": "Apple_iPhone11Pro_MidnightGreen.png",
+    "imageAlt": "Bestil den nye iPhone 11 Pro til en god pris i dag",
+    "brandName": "Apple",
+    "brandSlug": "apple",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Midnight Green",
+        "colorHex": "#3c4740"
+      },
+      {
+        "color": "Space Gray",
+        "colorHex": "#5d5c5b"
+      },
+      {
+        "color": "Guld",
+        "colorHex": "#fedbc0"
+      },
+      {
+        "color": "Sølv",
+        "colorHex": "#f0f0e8"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Forsalg"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 909400,
+    "leastPriceUpfront": 909400,
+    "leastPrice": 30000,
+    "savings": 169800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 326,
+    "name": "iPhone 8",
+    "slug": "iphone-8",
+    "image": "Apple_iPhone8_SpaceGrey.png",
+    "imageAlt": "Bestil iPhone 8 i dag hos Nuuday til en god pris",
+    "brandName": "Apple",
+    "brandSlug": "apple",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Space Grey",
+        "colorHex": "#424142"
+      },
+      {
+        "color": "Sølv",
+        "colorHex": "#9e9e9e"
+      },
+      {
+        "color": "Space Grey",
+        "colorHex": "#595959"
+      },
+      {
+        "color": "Guld",
+        "colorHex": "#f0c965"
+      },
+      {
+        "color": "Sølv",
+        "colorHex": "#bdbdbd"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 477400,
+    "leastPriceUpfront": 477400,
+    "leastPrice": 12000,
+    "savings": 181800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 381,
+    "name": "iPhone 11 Pro Max",
+    "slug": "iphone-11-pro-max",
+    "image": "Apple_iPhone11ProMax_MidnightGreen.png",
+    "imageAlt": "Køb den nye iPhone 11 Pro Max til en god pris",
+    "brandName": "Apple",
+    "brandSlug": "apple",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Midnight Green",
+        "colorHex": "#3c4740"
+      },
+      {
+        "color": "Space Gray",
+        "colorHex": "#5d5c5b"
+      },
+      {
+        "color": "Guld",
+        "colorHex": "#fedbc0"
+      },
+      {
+        "color": "Sølv",
+        "colorHex": "#f0f0e8"
+      }
+    ],
+    "labels": [
+      "Mobilrabat",
+      "Forsalg"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 981400,
+    "leastPriceUpfront": 981400,
+    "leastPrice": 33000,
+    "savings": 187800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 362,
+    "name": "Xperia 10",
+    "slug": "xperia-10",
+    "image": "Sony_Xperia10_Sort.png",
+    "imageAlt": "Køb den billige Sony Xperia 10 hos Nuuday i dag",
+    "brandName": "Sony",
+    "brandSlug": "sony",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      },
+      {
+        "color": "Blå",
+        "colorHex": "#1f47fc"
+      }
+    ],
+    "labels": [
+      "4G",
+      "Nyhed",
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 229200,
+    "leastPrice": 99900,
+    "savings": 200000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 353,
+    "name": "iPhone XS Max",
+    "slug": "iphone-xs-max",
+    "image": "Apple_iPhoneXSMax_SpaceGray.png",
+    "imageAlt": "Køb iPhone XS til en lav pris hos Nuuday",
+    "brandName": "Apple",
+    "brandSlug": "apple",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Space Gray",
+        "colorHex": "#1f1f1f"
+      },
+      {
+        "color": "Guld",
+        "colorHex": "#fcc100"
+      },
+      {
+        "color": "Sølv",
+        "colorHex": "#cccccc"
+      }
+    ],
+    "labels": [
+      "4G",
+      "Wi-Fi Opkald",
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 1005400,
+    "leastPriceUpfront": 1005400,
+    "leastPrice": 34000,
+    "savings": 163800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 349,
+    "name": "Galaxy Note9",
+    "slug": "galaxy-note9",
+    "image": "Samsung_GalaxyNote9_Bl.png",
+    "imageAlt": "Samsung Galaxy Note9 Blå 512 GB",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Blå",
+        "colorHex": "#005eff"
+      },
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      }
+    ],
+    "labels": [
+      "4G",
+      "Wi-Fi Opkald",
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 50 GB",
+    "offeringServicePrice": 29900,
+    "leastPriceRepayments": 909400,
+    "leastPriceUpfront": 909400,
+    "leastPrice": 30000,
+    "savings": 259800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 355,
+    "name": "Mate 20 Pro",
+    "slug": "mate-20-pro",
+    "image": "Huawei_Mate20Pro_Sort.png",
+    "imageAlt": "Huawei Mate 20 Pro 128 GB Sort",
+    "brandName": "Huawei",
+    "brandSlug": "huawei",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000"
+      }
+    ],
+    "labels": [
+      "4G",
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 585400,
+    "leastPriceUpfront": 585400,
+    "leastPrice": 456100,
+    "savings": 243800,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 385,
+    "name": "Galaxy Xcover 4s",
+    "slug": "galaxy-xcover-4s",
+    "image": "Samsung_GalaxyXcover4s_Sort.png",
+    "imageAlt": "Køb Samsung Galaxy XCover 4s billigt hos Nuuday i dag",
+    "brandName": "Samsung",
+    "brandSlug": "samsung",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 279200,
+    "leastPrice": 149900,
+    "savings": 100000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 319,
+    "name": "8",
+    "slug": "8",
+    "image": "Nokia_8_Bl.png",
+    "imageAlt": "Nokia 8 64 GB blå",
+    "brandName": "Nokia",
+    "brandSlug": "nokia",
+    "campaignLabel": "Kan kun købes online",
+    "colors": [
+      {
+        "color": "Blå",
+        "colorHex": "#2d37fa"
+      },
+      {
+        "color": "Stål",
+        "colorHex": "#878787"
+      }
+    ],
+    "labels": [
+      "4G",
+      "Wi-Fi Opkald",
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 179200,
+    "leastPrice": 49900,
+    "savings": 250000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 306,
+    "name": "Prime",
+    "slug": "prime",
+    "image": "Emporia_Prime_Gr.png",
+    "imageAlt": "Køb den billige Emporia Prime med fri fragt hos Nuuday",
+    "brandName": "Emporia",
+    "brandSlug": "emporia",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Grå",
+        "colorHex": "#969696"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 179200,
+    "leastPrice": 49900,
+    "savings": 10000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 296,
+    "name": "Select",
+    "slug": "select",
+    "image": "Emporia_Select_Sort.png",
+    "imageAlt": "Køb Emporia Select klaptelefon billigt hos Nuuday",
+    "brandName": "Emporia",
+    "brandSlug": "emporia",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Sort",
+        "colorHex": "#000000"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 209200,
+    "leastPrice": 79900,
+    "savings": 20000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 346,
+    "name": "Smart 2",
+    "slug": "smart-2",
+    "image": "Emporia_Smart2_Bl.png",
+    "imageAlt": "Køb Emporia Smart 2 billigt hos Nuuday med fri fragt",
+    "brandName": "Emporia",
+    "brandSlug": "emporia",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Blå",
+        "colorHex": "#000000"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 229200,
+    "leastPrice": 99900,
+    "savings": 50000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  },
+  {
+    "id": 325,
+    "name": "3310 3G",
+    "slug": "3310-3g",
+    "image": "Nokia_33103G_Mrkegr.png",
+    "imageAlt": "Køb Nokia 3310 med 3G billigt hos Nuuday",
+    "brandName": "Nokia",
+    "brandSlug": "nokia",
+    "campaignLabel": null,
+    "colors": [
+      {
+        "color": "Mørkegrå",
+        "colorHex": "#474747"
+      }
+    ],
+    "labels": [
+      "Mobilrabat"
+    ],
+    "offeringService": "Fri + 20 GB",
+    "offeringServicePrice": 19900,
+    "leastPriceRepayments": 129300,
+    "leastPriceUpfront": 159200,
+    "leastPrice": 29900,
+    "savings": 20000,
+    "serviceDiscount": 0,
+    "signupCost": 9900,
+    "deviceType": "mobile"
+  }
+]

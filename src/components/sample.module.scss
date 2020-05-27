@@ -1,0 +1,44 @@
+@import "../assets/styles/globals.scss";
+@import "../assets/styles/responsive.scss";
+
+.hero {
+  height: 200px;
+  overflow: hidden;
+  flex: none;
+  display: flex;
+  justify-content: center;
+
+  @include for-tablet-landscape-up {
+    height: 300px;
+  }
+
+  img {
+    min-width: 900px;
+    width: 100%;
+    flex: none;
+    object-fit: cover;
+    object-position: 50% 30%;
+
+    @include for-tablet-landscape-up {
+      min-width: 1200px;
+    }
+  }
+}
+
+.main {
+  flex: auto;
+  background-color: $secondary-light-gray;
+
+  .gutter {
+    margin: 0 50px;
+
+    @include for-phone-only {
+      margin: 0 20px;
+    }
+  }
+}
+
+.spinner {
+  display: block;
+  margin: 70px auto 0 auto;
+}

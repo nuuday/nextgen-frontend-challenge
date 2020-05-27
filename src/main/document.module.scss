@@ -1,0 +1,48 @@
+@import "../assets/styles/globals.scss";
+
+@font-face {
+  font-family: "Nuu";
+  font-weight: 300;
+  font-style: normal;
+  src: url("../assets/fonts/Nuu-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Nuu";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../assets/fonts/Nuu-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Nuu";
+  font-weight: 700;
+  font-style: normal;
+  src: url("../assets/fonts/Nuu-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Nuu";
+  font-weight: 800;
+  font-style: normal;
+  src: url("../assets/fonts/Nuu-ExtraBold.woff") format("woff");
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Nuu, sans-serif;
+  line-height: 1.4;
+  color: $primary-black;
+  -webkit-font-smoothing: antialiased;
+}
+
+.root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}

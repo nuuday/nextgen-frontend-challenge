@@ -1,0 +1,81 @@
+@import "../assets/styles/globals.scss";
+@import "../assets/styles/responsive.scss";
+
+.device {
+  max-width: 1200px;
+  overflow: auto;
+
+  .headlines {
+    padding-top: 40px;
+
+    @include for-phone-only {
+      padding-top: 20px;
+    }
+
+    h1 {
+      margin: 0 auto;
+    }
+
+    .brand,
+    .terminal {
+      display: block;
+      font-weight: 800;
+    }
+
+    .brand {
+      font-size: 2em;
+    }
+
+    .terminal {
+      font-size: 3em;
+    }
+  }
+
+  .photo {
+    text-align: center;
+    margin-top: -40px;
+
+    img {
+      max-width: 100%;
+    }
+  }
+
+  .properties {
+    .design {
+      margin: 0 0 1em 0;
+      padding-left: 1em;
+    }
+
+    .favorites {
+      display: block;
+      width: 50px;
+    }
+
+    .description {
+      a {
+        color: $primary-blue;
+      }
+    }
+  }
+
+  @include for-tablet-landscape-up {
+    margin: 0 auto;
+
+    .headlines {
+      float: right;
+      width: 55%;
+      padding-top: 40px;
+    }
+
+    .photo {
+      float: left;
+      width: 45%;
+    }
+
+    .properties {
+      float: right;
+      width: 55%;
+      padding-top: 1em;
+    }
+  }
+}

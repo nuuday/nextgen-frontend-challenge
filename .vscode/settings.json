@@ -1,0 +1,27 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.enable": true,
+  "files.exclude": {
+    ".babelrc.json": true,
+    ".eslintignore": true,
+    ".eslintrc.js": true,
+    ".gitignore": true,
+    ".prettierrc.js": true,
+    ".stylelintrc.js": true,
+    "jest-file-transformer.js": true,
+    "jest.config.js": true,
+    "LICENSE.md": true,
+    "node_modules": true,
+    "package-lock.json": true,
+    "server.js": true,
+    "tsconfig.json": true,
+    "webpack": true
+  }
+}
