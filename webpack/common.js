@@ -50,9 +50,6 @@ module.exports = {
           },
           {
             loader: "css-loader",
-            options: {
-              sourceMap: true,
-            },
           },
           {
             loader: "sass-loader",
@@ -74,9 +71,8 @@ module.exports = {
             options: {
               modules: {
                 localIdentName: "[local]-[hash:4]",
+                exportLocalsConvention: "dashesOnly",
               },
-              localsConvention: "dashesOnly",
-              sourceMap: true,
             },
           },
           {
