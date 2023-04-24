@@ -57,7 +57,7 @@
     "react-hot-loader": "^4.12.21",
     "react-router": "^5.2.0",
     "sass-loader": "^9.0.3",
-    "stylelint": "^13.6.1",
+    "stylelint": "^15.6.0",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-recommended-scss": "^4.2.0",
     "stylelint-scss": "^3.18.0",
